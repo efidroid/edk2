@@ -26,7 +26,6 @@ APPLICATIONS = \
   GenFw \
   GenPage \
   GenSec \
-  GenVtf \
   LzmaCompress \
   Split \
   TianoCompress \
